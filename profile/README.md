@@ -1,4 +1,4 @@
-# ACM UMN
+# ACM UMN (!ARCHIVED)
 
 This Git remote has been moved to [codeberg.org/acmumn](https://codeberg.org/acmumn).
 
